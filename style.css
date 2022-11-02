@@ -1,0 +1,13 @@
+
+.div{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    box-sizing: border-box;
+}
+.class {
+    height: 100px;
+    width:100px;
+    background-color: blueviolet;
+    box-sizing: content-box;
+}
